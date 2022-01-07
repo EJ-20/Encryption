@@ -19,7 +19,11 @@ public class Main {
 
     // creating key for encryption
         int size = input.length();
-        //String key =
+        int key = rand.nextInt(size);
+
+    // testing
+        System.out.println("Size  " + size);
+        System.out.println("Key  " + key);
 
     }
 }
