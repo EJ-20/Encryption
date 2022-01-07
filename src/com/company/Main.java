@@ -19,7 +19,7 @@ public class Main {
 
     // creating key for encryption
         int size = input.length();
-        String key =
+        //String key =
 
     }
 }
